@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sound-app/static/css/main.83e00217.chunk.css",
+    "main.js": "/sound-app/static/js/main.a17cc621.chunk.js",
+    "main.js.map": "/sound-app/static/js/main.a17cc621.chunk.js.map",
+    "runtime-main.js": "/sound-app/static/js/runtime-main.e5b14d29.js",
+    "runtime-main.js.map": "/sound-app/static/js/runtime-main.e5b14d29.js.map",
+    "static/css/2.de424728.chunk.css": "/sound-app/static/css/2.de424728.chunk.css",
+    "static/js/2.822e9b0d.chunk.js": "/sound-app/static/js/2.822e9b0d.chunk.js",
+    "static/js/2.822e9b0d.chunk.js.map": "/sound-app/static/js/2.822e9b0d.chunk.js.map",
+    "index.html": "/sound-app/index.html",
+    "precache-manifest.2581c06d05742fa7bb04b10e5e1fe57c.js": "/sound-app/precache-manifest.2581c06d05742fa7bb04b10e5e1fe57c.js",
+    "service-worker.js": "/sound-app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sound-app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.83e00217.chunk.css.map": "/sound-app/static/css/main.83e00217.chunk.css.map",
+    "static/js/2.822e9b0d.chunk.js.LICENSE.txt": "/sound-app/static/js/2.822e9b0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5b14d29.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.822e9b0d.chunk.js",
+    "static/css/main.83e00217.chunk.css",
+    "static/js/main.a17cc621.chunk.js"
+  ]
+}
